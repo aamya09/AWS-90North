@@ -33,7 +33,7 @@ Choose the runtime as Python 3.x (since the function is written in Python).
 
 Click Create function.
 
-# ** Copy the Code to the Lambda Function
+2. Copy the Code to the Lambda Function
 Once your Lambda function is created, you'll need to copy the code from this repository:
 
 In the Lambda function console, scroll down to the Function code section.
