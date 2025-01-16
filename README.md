@@ -2,13 +2,13 @@
 
 This repository contains an AWS Lambda function that takes two numbers as input and returns the sum of the two numbers.
 
-# **Features
+# Features
 
 1)Accepts two numbers (num1 and num2) from an event input.
 
 2)Returns the sum of the two numbers as the output.
 
-# **Pre-requisites
+# Pre-requisites
 
 To use this Lambda function, you need:
 
@@ -16,7 +16,7 @@ To use this Lambda function, you need:
 
 2)Basic knowledge of AWS Lambda and AWS Console.
 
-# **Setup Instructions
+# Setup Instructions
 
 Follow these steps to set up the AddTwoNumbers Lambda function:
 
