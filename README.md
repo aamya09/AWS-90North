@@ -20,7 +20,7 @@ To use this Lambda function, you need:
 
 Follow these steps to set up the AddTwoNumbers Lambda function:
 
-1. Create a New Lambda Function:-
+# 1. Create a New Lambda Function:-
 Go to the AWS Management Console and navigate to Lambda.
 
 Click on Create function.
@@ -33,7 +33,7 @@ Choose the runtime as Python 3.x (since the function is written in Python).
 
 Click Create function.
 
-2. Copy the Code to the Lambda Function:-
+# 2. Copy the Code to the Lambda Function:-
 
 Once your Lambda function is created, you'll need to copy the code from this repository:
 
@@ -41,7 +41,7 @@ In the Lambda function console, scroll down to the Function code section.
 
 In the code editor, paste the following Python code:
 
-3.  Set Up Test Event:-
+# 3.  Set Up Test Event:-
 
 Now, you'll need to configure a test event to invoke the Lambda function with the two numbers.
 
@@ -58,7 +58,7 @@ This event sends two numbers, 5 and 10, to the Lambda function.
 
 Click Save changes.
 
-4. Invoke the Lambda Function:-
+# 4. Invoke the Lambda Function:-
 
 After saving the test event, click Test to invoke the Lambda function.
 
